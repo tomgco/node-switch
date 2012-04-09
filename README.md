@@ -1,7 +1,7 @@
 # Node Switch
 `ns(1)`
+
 Saves the time having to search for the required node binary for a specific project. Handy if you have personal projects using an unstable node branch and production code using stable.
-----
 
 ## Installation
     $ npm install -g ns
